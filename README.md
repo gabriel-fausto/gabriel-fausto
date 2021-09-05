@@ -1,9 +1,9 @@
 <h1 align="center">Bom dia, Boa tarde, Boa noite! Eu sou o Gabriel Fausto</h1>
 <h3 align="center">Um programador curioso com sede de conhecimento.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-fausto&show_icons=true&locale=en&layout=compact" alt="gabriel-fausto" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-fausto&show_icons=true&locale=en" alt="gabriel-fausto" /></p> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-fausto&show_icons=true&locale=en&layout=compact" alt="gabriel-fausto" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
