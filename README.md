@@ -1,10 +1,10 @@
 <h1 align="center">Bom dia, Boa tarde, Boa noite! Eu sou o Gabriel Fausto</h1>
 <h3 align="center">Um programador curioso com sede de conhecimento.</h3>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-fausto&show_icons=true&locale=en&layout=compact" alt="gabriel-fausto" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-fausto&show_icons=true&locale=en" alt="gabriel-fausto" /></p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-fausto&show_icons=true&locale=en&layout=compact" alt="gabriel-fausto" /></p>
-<p align="center"><hr/><p>
+<p align="left"><hr/><p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
@@ -13,6 +13,9 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
