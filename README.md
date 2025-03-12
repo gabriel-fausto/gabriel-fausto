@@ -1,7 +1,6 @@
 <h1 align="center">Bom dia, Boa tarde, Boa noite! Eu sou o Gabriel Fausto</h1>
 <h3 align="center">Esse é um repositório para projetos de pequenos cursos e trabalhos de faculdade.</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-fausto&show_icons=true&locale=en" alt="gabriel-fausto" /></p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-fausto&show_icons=true&locale=en&layout=compact" alt="gabriel-fausto" /></p>
 <p align="center"><hr/><p>
 <h3 align="center">Languages and Tools:</h3>
